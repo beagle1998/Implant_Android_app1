@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">vol2</string>
+    <string name="volume">Volume Control</string>
+    <string name="mute">Mute</string>
+    <string name="previous">Previous</string>
+    <string name="program1">Program 1</string>
+    <string name="program2">Program 2</string>
+    <string name="program3">Program 3</string>
+    <string name="program4">Program 4</string>
+    <string name="program5">Program 5</string>
+    <string name="device_a">Device A</string>
+    <string name="device_b">Device B</string>
+    <string name="locate">Locate Device</string>
+    <string name="locator">Find My Implant</string>
+    <string name="audio_stream">Audio Device Streaming</string>
+    <string name="audio_set">Audio Settings</string>
+    <string name="battery">Battery Status</string>
+    <string name="profile">Profile Login</string>
+    <string name="scan">Scan</string>
+    <string name="login">Login</string>
+    <string name="save">Save</string>
+    <string name="logout">Logout</string>
+    <string name="coil">Coil Off Report</string>
+
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/work/Code/React/git_2_17/vol2/vol2/app/src/main/res/layout/activity_main.xml" value="0.3046875" />
+        <entry key="..\:/work/Code/React/git_2_17/vol2/vol2/app/src/main/res/layout/activity_main_devicea_2.xml" value="0.3333333333333333" />
+        <entry key="..\:/work/Code/React/git_2_17/vol2/vol2/app/src/main/res/layout/activity_main_devicea_program1.xml" value="0.3333333333333333" />
+        <entry key="..\:/work/Code/React/git_2_17/vol2/vol2/app/src/main/res/layout/activity_main_devicea_program2.xml" value="0.3046875" />
+        <entry key="..\:/work/Code/React/git_2_17/vol2/vol2/app/src/main/res/layout/activity_main_devicea_program3.xml" value="0.3046875" />
+        <entry key="..\:/work/Code/React/git_2_17/vol2/vol2/app/src/main/res/layout/activity_main_devicea_program4.xml" value="0.22" />
+        <entry key="..\:/work/Code/React/git_2_17/vol2/vol2/app/src/main/res/layout/activity_main_devicea_program5.xml" value="0.3046875" />
+        <entry key="..\:/work/Code/React/git_2_17/vol2/vol2/app/src/main/res/layout/activity_main_deviceb_3.xml" value="0.3333333333333333" />
+        <entry key="..\:/work/Code/React/git_2_17/vol2/vol2/app/src/main/res/layout/activity_main_deviceb_program1.xml" value="0.22" />
+        <entry key="..\:/work/Code/React/git_2_17/vol2/vol2/app/src/main/res/layout/activity_main_deviceb_program2.xml" value="0.22" />
+        <entry key="..\:/work/Code/React/git_2_17/vol2/vol2/app/src/main/res/layout/activity_main_deviceb_program3.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
